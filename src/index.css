@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Open Sans";
+}
+
+html {
+  font-family: "Open Sans";
+}
+
+:tablecell {
+  border-bottom: 0;
+  text-align: center;
+}
+
+.MuiTableCell-root {
+  font-family: "Open Sans";
+}
+
+.MuiTypography-h5 {
+  font-family: "Open Sans";
+}
+.MuiMenuItem-root {
+  font-family: "Open Sans";
+}
+
+.GridRoot {
+  width: 100%;
+}
+
+#GridLeft {
+  float: left;
+  width: 50%;
+}
+
+.CardRoot {
+  margin-left: 30px;
+  margin-bottom: 30px;
+}
+
+#GridRight {
+  padding-left: 60px;
+  float: left;
+  width: 40%;
+}
+
+.responsive-img {
+  width: 200px;
+  height: auto;
+  max-height: 200px;
+}
+
+.logo {
+  width: 100px;
+  height: 100px;
+}

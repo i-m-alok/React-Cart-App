@@ -1,0 +1,8 @@
+.GridRoot {
+  width: 100%;
+}
+
+.GridLeft {
+  float: left;
+  width: 50%;
+}
